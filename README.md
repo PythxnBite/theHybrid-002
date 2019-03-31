@@ -20,22 +20,22 @@
     <li>Enter into a Terminal. This process differs based on your OS.</li>
     <li>
         Create a anaconda environment using
-            - conda create -name myenv
+           <br> - conda create -name myenv
     </li>
     <li>
         Enter into the Environment using : conda activate myenv
     </li>
     <li>
         Install tensorflow using anaconda using : conda installl tensorflow.
-            -To use GPU use : conda install tensorflow-gpu
+           <br> -To use GPU use : conda install tensorflow-gpu
     </li>
     <li>
         Change directory into the git Repo.
-            -cd theHybrid--002
+           <br> -cd theHybrid--002
     </li>
     <li>
         Open Jupyter Notebook.
-            -jupyter notebook
+           <br> -jupyter notebook
     </li>
     <li>
         Enter into the python notebook by selecting PSHybrid.pynb
