@@ -1,6 +1,17 @@
 #HYDE-002-theHybrid
 
 
+# Problem Statement : 
+    Predicting Symptoms of users using Deep Learning
+### Pitch :
+    Given Data has minimum correlation and is very dynamic as it changes from person to person and also depends on various other
+    unrelated factors . So as the data is randomly distributed, with no specific trend so we are using Deep Neural Networks on
+    the data, and doing supervised learing by considering the factors period cycle and period length. Using this we are trying to 
+    predict her symptoms during their menstrual cycle.
+### Utility :
+    Basing on these Symptoms one would be able to know about one's pesonal health profile, hygiene. It also can be used to take
+    precautionary measures in extreme cases as we will be able to predict the symptoms early.
+
 <b>Instructions</b>
 <ol>
     <li>Download or clone this repository.
